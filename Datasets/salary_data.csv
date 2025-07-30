@@ -1,0 +1,26 @@
+id,name,age,income
+1,Alice,25,"$50,000"
+2,Bob,thirty,"$45,000"
+3,Charlie,40,unknown
+4,David,29,"$55,500"
+5,Eve,,42000
+6,Frank,,"$60,000"
+7,Grace,35,"$52,000"
+8,Henry,28,"$47,800"
+9,Ivy,31,"$58,200"
+10,Jack,none,"$49,000"
+11,Kate,45,
+12,Liam,37,"$61,000"
+13,Mia,41,"$53,000"
+14,Noah,42,54000
+15,Olivia,33,"$57,500"
+16,Paul,22,"$46,300"
+17,Quincy,twenty-eight,"$50,500"
+18,Rachel,39,"$55,700"
+19,Sam,30,"$59,000"
+20,Tina,invalid,"$43,500"
+21,Uma,36,"$60,000"
+22,Victor,38,"$51,000"
+23,Wendy,27,not available
+24,Xavier,34,"$49,800"
+25,Yara,,"$50,000"
